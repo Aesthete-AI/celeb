@@ -1,0 +1,37 @@
+# Only the Teinte website and the Kitchener essence research are tracked; everything else in this folder is not.
+/*
+!/.gitignore
+!/README.md
+!/teinte/
+!/essence/
+
+# never commit secrets
+.env
+*.env.local
+
+# environments, builds, caches
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+teinte/frontend/dist/
+*.tsbuildinfo
+
+# Teinte: the joined Graphonomy weights (the repo carries them as two parts in weights/)
+teinte/backend/models/graphonomy/graphonomy_inference.pth
+
+# Essence: search pool and superseded files (the curated result is top10/)
+essence/web_candidates/
+essence/_stale/
+essence/restore_round2_accident.py
+
+# Teinte: only catalogue photos referenced by frontend/public/catalog/*.json are added (git add -f);
+# the rest are leftovers from earlier catalogue builds
+teinte/frontend/public/media/
+
+# added in later commits (each push stays under GitHub's 2 GB limit)
+essence/crops/
+essence/crops_masked_*/
+teinte/backend/catalog/thumbs/
+teinte/backend/catalog/cache/

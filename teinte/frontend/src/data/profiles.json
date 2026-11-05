@@ -1,0 +1,2039 @@
+{
+ "profiles": {
+  "spring-warm": {
+   "mood": "Sunlit and golden",
+   "colours": [
+    {
+     "name": "Coral",
+     "hex": "#FF7F50"
+    },
+    {
+     "name": "Peach",
+     "hex": "#FFB38A"
+    },
+    {
+     "name": "Golden Yellow",
+     "hex": "#F6C343"
+    },
+    {
+     "name": "Warm Turquoise",
+     "hex": "#21B2A6"
+    },
+    {
+     "name": "Apple Green",
+     "hex": "#8DB600"
+    },
+    {
+     "name": "Poppy",
+     "hex": "#E8452E"
+    },
+    {
+     "name": "Apricot",
+     "hex": "#F9A15E"
+    },
+    {
+     "name": "Clear Camel",
+     "hex": "#C89A5B"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Cream",
+     "hex": "#FFF3DC"
+    },
+    {
+     "name": "Camel",
+     "hex": "#C19A6B"
+    },
+    {
+     "name": "Warm Beige",
+     "hex": "#E3C9A1"
+    },
+    {
+     "name": "Golden Brown",
+     "hex": "#9C6B30"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Black",
+     "hex": "#111111"
+    },
+    {
+     "name": "Icy Grey",
+     "hex": "#D5D9DE"
+    },
+    {
+     "name": "Burgundy",
+     "hex": "#6B1E2E"
+    },
+    {
+     "name": "Dusty Mauve",
+     "hex": "#9C7D89"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Yellow Gold",
+     "hex": "#D4AF37"
+    },
+    {
+     "name": "Polished Brass",
+     "hex": "#C9A54A"
+    }
+   ],
+   "gems": [
+    "Citrine",
+    "Coral",
+    "Turquoise",
+    "Peridot"
+   ],
+   "lips": [
+    {
+     "name": "Coral",
+     "hex": "#E86B54"
+    },
+    {
+     "name": "Peach Nude",
+     "hex": "#E9A48A"
+    },
+    {
+     "name": "Warm Red",
+     "hex": "#D9452F"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Apricot",
+     "hex": "#F5A584"
+    },
+    {
+     "name": "Peach",
+     "hex": "#F8B99F"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Champagne",
+     "hex": "#E8CFA6"
+    },
+    {
+     "name": "Bronze",
+     "hex": "#A6733D"
+    },
+    {
+     "name": "Teal",
+     "hex": "#14958E"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Golden Blonde",
+     "hex": "#D7B06C"
+    },
+    {
+     "name": "Honey",
+     "hex": "#C38B4C"
+    },
+    {
+     "name": "Strawberry Blonde",
+     "hex": "#D59868"
+    }
+   ],
+   "key": "spring-warm",
+   "family": "Spring",
+   "undertone": "Warm",
+   "label": "Spring · Warm undertone",
+   "rule": "Your warm undertone is your cue for yellow gold and warmer shades such as cream, coral and olive. As a Spring, keep colours light-to-medium and clear — fresh and sunlit, never heavy, dark or greyed.",
+   "why": {
+    "jewellery": "Yellow gold and polished brass sit in harmony with your undertone; let the stones echo coral and peach.",
+    "hairstyles": "Hair in golden blonde, honey, strawberry blonde harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Coral lips with apricot cheeks; eyes in champagne or bronze.",
+    "clothing": "Wear coral, peach and golden yellow near your face; build the base in cream and camel.",
+    "footwear": "Ground your looks in warm beige or golden brown leather; let one pair in coral carry the colour, with yellow gold hardware.",
+    "office": "Anchor in cream and golden brown, add one coral piece near the face, small yellow gold details.",
+    "party": "Your most magnetic shades — coral, apple green or poppy — in a fabric with a little shine, finished with yellow gold.",
+    "festive": "Choose coral or poppy with yellow gold zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in peach or apricot that glow in low light, finished with yellow gold.",
+    "casual": "Easy pieces in camel and golden yellow — denim and knits that still flatter.",
+    "vacation": "Airy linens in cream with warm turquoise or peach for sunshine.",
+    "black-tie": "Floor-length clear camel or coral — or a sharp tuxedo in golden brown — finished with yellow gold jewellery or cufflinks."
+   }
+  },
+  "spring-neutral": {
+   "mood": "Fresh and balanced",
+   "colours": [
+    {
+     "name": "Warm Pink",
+     "hex": "#F5A3B5"
+    },
+    {
+     "name": "Light Coral",
+     "hex": "#F7867A"
+    },
+    {
+     "name": "Aqua",
+     "hex": "#7ED6D0"
+    },
+    {
+     "name": "Butter",
+     "hex": "#F7E07E"
+    },
+    {
+     "name": "Periwinkle",
+     "hex": "#9DB2EC"
+    },
+    {
+     "name": "Mint",
+     "hex": "#A6E3C8"
+    },
+    {
+     "name": "Watermelon",
+     "hex": "#F05D73"
+    },
+    {
+     "name": "Soft Camel",
+     "hex": "#D2AC7E"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Ivory",
+     "hex": "#FFF8E8"
+    },
+    {
+     "name": "Light Warm Grey",
+     "hex": "#CBC3B7"
+    },
+    {
+     "name": "Stone",
+     "hex": "#BFB2A3"
+    },
+    {
+     "name": "Light Navy",
+     "hex": "#45628F"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Black",
+     "hex": "#111111"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#36393E"
+    },
+    {
+     "name": "Mustard",
+     "hex": "#C9A227"
+    },
+    {
+     "name": "Olive Drab",
+     "hex": "#5B5A2D"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Rose Gold",
+     "hex": "#E1A98C"
+    },
+    {
+     "name": "Light Gold",
+     "hex": "#E4C77A"
+    },
+    {
+     "name": "Silver",
+     "hex": "#C9CDD2"
+    }
+   ],
+   "gems": [
+    "Aquamarine",
+    "Rose quartz",
+    "Peridot",
+    "Pearl"
+   ],
+   "lips": [
+    {
+     "name": "Watermelon Pink",
+     "hex": "#E86A7E"
+    },
+    {
+     "name": "Peachy Pink",
+     "hex": "#E79A8E"
+    },
+    {
+     "name": "Clear Coral",
+     "hex": "#F25A4D"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Coral Pink",
+     "hex": "#F67F7F"
+    },
+    {
+     "name": "Soft Peach",
+     "hex": "#F8B99F"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Champagne",
+     "hex": "#E8CFA6"
+    },
+    {
+     "name": "Taupe",
+     "hex": "#9C8E8A"
+    },
+    {
+     "name": "Aqua",
+     "hex": "#70C4BE"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Light Golden Brown",
+     "hex": "#A6744A"
+    },
+    {
+     "name": "Beige Blonde",
+     "hex": "#D3BF9F"
+    },
+    {
+     "name": "Caramel",
+     "hex": "#9C6233"
+    }
+   ],
+   "key": "spring-neutral",
+   "family": "Spring",
+   "undertone": "Neutral",
+   "label": "Spring · Neutral undertone",
+   "rule": "Your near-neutral undertone gives you room to explore both sides — rose gold and mixed metals, soft white, dusty rose, jade and teal. As a Spring, keep colours light-to-medium and clear — fresh and sunlit, never heavy, dark or greyed.",
+   "why": {
+    "jewellery": "Rose gold and light gold sit in harmony with your undertone; let the stones echo warm pink and light coral.",
+    "hairstyles": "Hair in light golden brown, beige blonde, caramel harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Watermelon pink lips with coral pink cheeks; eyes in champagne or taupe.",
+    "clothing": "Wear warm pink, light coral and aqua near your face; build the base in ivory and light warm grey.",
+    "footwear": "Ground your looks in stone or light navy leather; let one pair in warm pink carry the colour, with rose gold hardware.",
+    "office": "Anchor in ivory and light navy, add one warm pink piece near the face, small rose gold details.",
+    "party": "Your most magnetic shades — warm pink, periwinkle or mint — in a fabric with a little shine, finished with rose gold.",
+    "festive": "Choose warm pink or mint with rose gold zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in light coral or watermelon that glow in low light, finished with rose gold.",
+    "casual": "Easy pieces in light warm grey and aqua — denim and knits that still flatter.",
+    "vacation": "Airy linens in ivory with butter or light coral for sunshine.",
+    "black-tie": "Floor-length soft camel or warm pink — or a sharp tuxedo in light navy — finished with rose gold jewellery or cufflinks."
+   }
+  },
+  "spring-cool": {
+   "mood": "Clear, bright and crisp",
+   "colours": [
+    {
+     "name": "Clear Aqua",
+     "hex": "#00CED1"
+    },
+    {
+     "name": "Coral Pink",
+     "hex": "#FF5D73"
+    },
+    {
+     "name": "Bright Periwinkle",
+     "hex": "#7F95D9"
+    },
+    {
+     "name": "Clear Violet",
+     "hex": "#8E5BD8"
+    },
+    {
+     "name": "Kelly Green",
+     "hex": "#3DAA5A"
+    },
+    {
+     "name": "Lemon",
+     "hex": "#F4F15A"
+    },
+    {
+     "name": "Turquoise",
+     "hex": "#00B7B0"
+    },
+    {
+     "name": "Bright Rose",
+     "hex": "#F2477F"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Crisp White",
+     "hex": "#FFFFFF"
+    },
+    {
+     "name": "Light Grey",
+     "hex": "#D9DDE2"
+    },
+    {
+     "name": "Bright Navy",
+     "hex": "#1F3A93"
+    },
+    {
+     "name": "Soft Charcoal",
+     "hex": "#4A4C52"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Mustard",
+     "hex": "#C9A227"
+    },
+    {
+     "name": "Rust",
+     "hex": "#A8492A"
+    },
+    {
+     "name": "Camel",
+     "hex": "#C19A6B"
+    },
+    {
+     "name": "Olive",
+     "hex": "#6B6A2E"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Silver",
+     "hex": "#C9CDD2"
+    },
+    {
+     "name": "White Gold",
+     "hex": "#E1E1DC"
+    }
+   ],
+   "gems": [
+    "Blue topaz",
+    "Pink sapphire",
+    "Emerald",
+    "Crystal"
+   ],
+   "lips": [
+    {
+     "name": "Clear Pink",
+     "hex": "#F0617E"
+    },
+    {
+     "name": "Berry Pink",
+     "hex": "#C2185B"
+    },
+    {
+     "name": "Cherry",
+     "hex": "#D0103A"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Bright Pink",
+     "hex": "#F06292"
+    },
+    {
+     "name": "Cool Coral",
+     "hex": "#F2707F"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Silver",
+     "hex": "#C9CDD2"
+    },
+    {
+     "name": "Violet",
+     "hex": "#7D4FC7"
+    },
+    {
+     "name": "Navy",
+     "hex": "#1F3A93"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Dark Ash Brown",
+     "hex": "#3E3633"
+    },
+    {
+     "name": "Cool Brown",
+     "hex": "#5A4A42"
+    },
+    {
+     "name": "Ash Blonde",
+     "hex": "#C9B79A"
+    }
+   ],
+   "key": "spring-cool",
+   "family": "Spring",
+   "undertone": "Cool",
+   "label": "Spring · Cool undertone",
+   "rule": "Your cool undertone points you toward silver, white gold and cooler shades such as crisp white, berry and blue. As a Spring, keep colours light-to-medium and clear — fresh and sunlit, never heavy, dark or greyed.",
+   "why": {
+    "jewellery": "Silver and white gold sit in harmony with your undertone; let the stones echo clear aqua and coral pink.",
+    "hairstyles": "Hair in dark ash brown, cool brown, ash blonde harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Clear pink lips with bright pink cheeks; eyes in silver or violet.",
+    "clothing": "Wear clear aqua, coral pink and bright periwinkle near your face; build the base in crisp white and light grey.",
+    "footwear": "Ground your looks in bright navy or soft charcoal leather; let one pair in clear aqua carry the colour, with silver hardware.",
+    "office": "Anchor in crisp white and soft charcoal, add one clear aqua piece near the face, small silver details.",
+    "party": "Your most magnetic shades — clear aqua, kelly green or lemon — in a fabric with a little shine, finished with silver.",
+    "festive": "Choose clear aqua or lemon with silver zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in coral pink or turquoise that glow in low light, finished with silver.",
+    "casual": "Easy pieces in light grey and bright periwinkle — denim and knits that still flatter.",
+    "vacation": "Airy linens in crisp white with clear violet or coral pink for sunshine.",
+    "black-tie": "Floor-length bright rose or clear aqua — or a sharp tuxedo in soft charcoal — finished with silver jewellery or cufflinks."
+   }
+  },
+  "summer-warm": {
+   "mood": "Soft, sunlit haze",
+   "colours": [
+    {
+     "name": "Soft Peach",
+     "hex": "#E9B49A"
+    },
+    {
+     "name": "Sage",
+     "hex": "#A3B18A"
+    },
+    {
+     "name": "Warm Rose",
+     "hex": "#D18E8E"
+    },
+    {
+     "name": "Soft Aqua",
+     "hex": "#8FC9C0"
+    },
+    {
+     "name": "Light Camel",
+     "hex": "#D2B48C"
+    },
+    {
+     "name": "Dusty Coral",
+     "hex": "#E0907A"
+    },
+    {
+     "name": "Butter",
+     "hex": "#F0DFA0"
+    },
+    {
+     "name": "Soft Teal",
+     "hex": "#6FA3A0"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Cream",
+     "hex": "#F3E9D7"
+    },
+    {
+     "name": "Oatmeal",
+     "hex": "#DCCFB8"
+    },
+    {
+     "name": "Warm Taupe",
+     "hex": "#A99A86"
+    },
+    {
+     "name": "Soft Brown",
+     "hex": "#8A6E58"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Black",
+     "hex": "#111111"
+    },
+    {
+     "name": "Stark White",
+     "hex": "#FFFFFF"
+    },
+    {
+     "name": "Fuchsia",
+     "hex": "#E3007D"
+    },
+    {
+     "name": "Royal Blue",
+     "hex": "#2350C8"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Brushed Gold",
+     "hex": "#C2A25E"
+    },
+    {
+     "name": "Rose Gold",
+     "hex": "#D4A08A"
+    }
+   ],
+   "gems": [
+    "Peach moonstone",
+    "Rose quartz",
+    "Jade",
+    "Freshwater pearl"
+   ],
+   "lips": [
+    {
+     "name": "Peach Nude",
+     "hex": "#D9937E"
+    },
+    {
+     "name": "Warm Rose",
+     "hex": "#C47C78"
+    },
+    {
+     "name": "Soft Coral",
+     "hex": "#E0806C"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Peach",
+     "hex": "#E8A58C"
+    },
+    {
+     "name": "Warm Pink",
+     "hex": "#DE9A96"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Champagne",
+     "hex": "#E2CBA6"
+    },
+    {
+     "name": "Soft Bronze",
+     "hex": "#A88664"
+    },
+    {
+     "name": "Sage",
+     "hex": "#9AA88A"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Soft Caramel",
+     "hex": "#9C7350"
+    },
+    {
+     "name": "Golden Bronde",
+     "hex": "#A88B68"
+    },
+    {
+     "name": "Light Auburn",
+     "hex": "#8E5A3C"
+    }
+   ],
+   "key": "summer-warm",
+   "family": "Summer",
+   "undertone": "Warm",
+   "label": "Summer · Warm undertone",
+   "rule": "Your warm undertone is your cue for yellow gold and warmer shades such as cream, coral and olive. As a Summer, keep colours light-to-medium and soft — blended, with a hint of grey, never stark or neon.",
+   "why": {
+    "jewellery": "Brushed gold and rose gold sit in harmony with your undertone; let the stones echo soft peach and sage.",
+    "hairstyles": "Hair in soft caramel, golden bronde, light auburn harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Peach nude lips with peach cheeks; eyes in champagne or soft bronze.",
+    "clothing": "Wear soft peach, sage and warm rose near your face; build the base in cream and oatmeal.",
+    "footwear": "Ground your looks in warm taupe or soft brown leather; let one pair in soft peach carry the colour, with brushed gold hardware.",
+    "office": "Anchor in cream and soft brown, add one soft peach piece near the face, small brushed gold details.",
+    "party": "Your most magnetic shades — soft peach, light camel or dusty coral — in a fabric with a little shine, finished with brushed gold.",
+    "festive": "Choose soft peach or dusty coral with brushed gold zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in sage or butter that glow in low light, finished with brushed gold.",
+    "casual": "Easy pieces in oatmeal and warm rose — denim and knits that still flatter.",
+    "vacation": "Airy linens in cream with soft aqua or sage for sunshine.",
+    "black-tie": "Floor-length soft teal or soft peach — or a sharp tuxedo in soft brown — finished with brushed gold jewellery or cufflinks."
+   }
+  },
+  "summer-neutral": {
+   "mood": "Misty and blended",
+   "colours": [
+    {
+     "name": "Dusty Rose",
+     "hex": "#C48B92"
+    },
+    {
+     "name": "Muted Teal",
+     "hex": "#5C8D89"
+    },
+    {
+     "name": "Sage",
+     "hex": "#9DB09A"
+    },
+    {
+     "name": "Greyed Lavender",
+     "hex": "#A39BB8"
+    },
+    {
+     "name": "Stone Blue",
+     "hex": "#7891A8"
+    },
+    {
+     "name": "Soft Berry",
+     "hex": "#A85A72"
+    },
+    {
+     "name": "Mauve",
+     "hex": "#A8818D"
+    },
+    {
+     "name": "Eucalyptus",
+     "hex": "#7FA090"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Soft White",
+     "hex": "#EFECE7"
+    },
+    {
+     "name": "Rose Beige",
+     "hex": "#CDB8AE"
+    },
+    {
+     "name": "Greige",
+     "hex": "#A79E95"
+    },
+    {
+     "name": "Soft Navy",
+     "hex": "#3E4B63"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Neon Pink",
+     "hex": "#FF3FA4"
+    },
+    {
+     "name": "Bright Orange",
+     "hex": "#F28C28"
+    },
+    {
+     "name": "Stark White",
+     "hex": "#FFFFFF"
+    },
+    {
+     "name": "Black",
+     "hex": "#111111"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Rose Gold",
+     "hex": "#C9A196"
+    },
+    {
+     "name": "Brushed Silver",
+     "hex": "#B5B8BC"
+    }
+   ],
+   "gems": [
+    "Grey moonstone",
+    "Rose quartz",
+    "Labradorite",
+    "Grey pearl"
+   ],
+   "lips": [
+    {
+     "name": "Dusty Rose",
+     "hex": "#B07C82"
+    },
+    {
+     "name": "Rosewood",
+     "hex": "#A0625D"
+    },
+    {
+     "name": "Soft Mauve",
+     "hex": "#A16E7E"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Soft Rose",
+     "hex": "#CC8E97"
+    },
+    {
+     "name": "Muted Peach",
+     "hex": "#D3A08E"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Taupe",
+     "hex": "#8F847E"
+    },
+    {
+     "name": "Smoky Plum",
+     "hex": "#6E5068"
+    },
+    {
+     "name": "Sage",
+     "hex": "#8A9A80"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Mushroom Brown",
+     "hex": "#7F6E60"
+    },
+    {
+     "name": "Bronde",
+     "hex": "#94806A"
+    },
+    {
+     "name": "Soft Brown",
+     "hex": "#6B5A4E"
+    }
+   ],
+   "key": "summer-neutral",
+   "family": "Summer",
+   "undertone": "Neutral",
+   "label": "Summer · Neutral undertone",
+   "rule": "Your near-neutral undertone gives you room to explore both sides — rose gold and mixed metals, soft white, dusty rose, jade and teal. As a Summer, keep colours light-to-medium and soft — blended, with a hint of grey, never stark or neon.",
+   "why": {
+    "jewellery": "Rose gold and brushed silver sit in harmony with your undertone; let the stones echo dusty rose and muted teal.",
+    "hairstyles": "Hair in mushroom brown, bronde, soft brown harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Dusty rose lips with soft rose cheeks; eyes in taupe or smoky plum.",
+    "clothing": "Wear dusty rose, muted teal and sage near your face; build the base in soft white and rose beige.",
+    "footwear": "Ground your looks in greige or soft navy leather; let one pair in dusty rose carry the colour, with rose gold hardware.",
+    "office": "Anchor in soft white and soft navy, add one dusty rose piece near the face, small rose gold details.",
+    "party": "Your most magnetic shades — dusty rose, stone blue or soft berry — in a fabric with a little shine, finished with rose gold.",
+    "festive": "Choose dusty rose or soft berry with rose gold zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in muted teal or mauve that glow in low light, finished with rose gold.",
+    "casual": "Easy pieces in rose beige and sage — denim and knits that still flatter.",
+    "vacation": "Airy linens in soft white with greyed lavender or muted teal for sunshine.",
+    "black-tie": "Floor-length eucalyptus or dusty rose — or a sharp tuxedo in soft navy — finished with rose gold jewellery or cufflinks."
+   }
+  },
+  "summer-cool": {
+   "mood": "Cool, calm and rosy",
+   "colours": [
+    {
+     "name": "Powder Blue",
+     "hex": "#A9C8E8"
+    },
+    {
+     "name": "Lavender",
+     "hex": "#BFA8DD"
+    },
+    {
+     "name": "Dusty Rose",
+     "hex": "#D9A0AC"
+    },
+    {
+     "name": "Soft Raspberry",
+     "hex": "#C25A7C"
+    },
+    {
+     "name": "Periwinkle",
+     "hex": "#7F8FD9"
+    },
+    {
+     "name": "Seafoam",
+     "hex": "#8CCBB7"
+    },
+    {
+     "name": "Plum",
+     "hex": "#7A3E6B"
+    },
+    {
+     "name": "Soft Navy",
+     "hex": "#4A5B7E"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Soft White",
+     "hex": "#F5F4F2"
+    },
+    {
+     "name": "Cool Grey",
+     "hex": "#9AA0A8"
+    },
+    {
+     "name": "Rose Taupe",
+     "hex": "#9C8487"
+    },
+    {
+     "name": "Slate",
+     "hex": "#6D7A8C"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Orange",
+     "hex": "#F28C28"
+    },
+    {
+     "name": "Mustard",
+     "hex": "#C9A227"
+    },
+    {
+     "name": "Rust",
+     "hex": "#A8492A"
+    },
+    {
+     "name": "Camel",
+     "hex": "#C19A6B"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Silver",
+     "hex": "#C0C4CA"
+    },
+    {
+     "name": "Platinum",
+     "hex": "#E5E4E2"
+    }
+   ],
+   "gems": [
+    "Amethyst",
+    "Sapphire",
+    "Pink tourmaline",
+    "White pearl"
+   ],
+   "lips": [
+    {
+     "name": "Rose",
+     "hex": "#C46A84"
+    },
+    {
+     "name": "Berry",
+     "hex": "#9D4F6B"
+    },
+    {
+     "name": "Mauve Pink",
+     "hex": "#D08A9E"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Cool Pink",
+     "hex": "#E68AA3"
+    },
+    {
+     "name": "Rose",
+     "hex": "#DB8A9B"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Plum",
+     "hex": "#7A4E70"
+    },
+    {
+     "name": "Grey-Blue",
+     "hex": "#8DA0B8"
+    },
+    {
+     "name": "Taupe",
+     "hex": "#9C8E8A"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Ash Blonde",
+     "hex": "#B7A58C"
+    },
+    {
+     "name": "Ash Brown",
+     "hex": "#6E5B4C"
+    },
+    {
+     "name": "Mushroom",
+     "hex": "#8A7766"
+    }
+   ],
+   "key": "summer-cool",
+   "family": "Summer",
+   "undertone": "Cool",
+   "label": "Summer · Cool undertone",
+   "rule": "Your cool undertone points you toward silver, white gold and cooler shades such as crisp white, berry and blue. As a Summer, keep colours light-to-medium and soft — blended, with a hint of grey, never stark or neon.",
+   "why": {
+    "jewellery": "Silver and platinum sit in harmony with your undertone; let the stones echo powder blue and lavender.",
+    "hairstyles": "Hair in ash blonde, ash brown, mushroom harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Rose lips with cool pink cheeks; eyes in plum or grey-blue.",
+    "clothing": "Wear powder blue, lavender and dusty rose near your face; build the base in soft white and cool grey.",
+    "footwear": "Ground your looks in rose taupe or slate leather; let one pair in powder blue carry the colour, with silver hardware.",
+    "office": "Anchor in soft white and slate, add one powder blue piece near the face, small silver details.",
+    "party": "Your most magnetic shades — powder blue, periwinkle or seafoam — in a fabric with a little shine, finished with silver.",
+    "festive": "Choose powder blue or seafoam with silver zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in lavender or plum that glow in low light, finished with silver.",
+    "casual": "Easy pieces in cool grey and dusty rose — denim and knits that still flatter.",
+    "vacation": "Airy linens in soft white with soft raspberry or lavender for sunshine.",
+    "black-tie": "Floor-length soft navy or powder blue — or a sharp tuxedo in slate — finished with silver jewellery or cufflinks."
+   }
+  },
+  "autumn-warm": {
+   "mood": "Spiced, earthy and golden",
+   "colours": [
+    {
+     "name": "Rust",
+     "hex": "#B7471F"
+    },
+    {
+     "name": "Mustard",
+     "hex": "#D4A017"
+    },
+    {
+     "name": "Olive",
+     "hex": "#708238"
+    },
+    {
+     "name": "Terracotta",
+     "hex": "#C8643B"
+    },
+    {
+     "name": "Pumpkin",
+     "hex": "#E07B25"
+    },
+    {
+     "name": "Teal",
+     "hex": "#1E6F6C"
+    },
+    {
+     "name": "Forest",
+     "hex": "#33582F"
+    },
+    {
+     "name": "Bronze",
+     "hex": "#9C6B30"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Cream",
+     "hex": "#F3E6CC"
+    },
+    {
+     "name": "Camel",
+     "hex": "#BF8F55"
+    },
+    {
+     "name": "Coffee",
+     "hex": "#5E4027"
+    },
+    {
+     "name": "Khaki",
+     "hex": "#A89A6A"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Icy Pink",
+     "hex": "#F4D7E6"
+    },
+    {
+     "name": "Cool Grey",
+     "hex": "#8E949C"
+    },
+    {
+     "name": "Fuchsia",
+     "hex": "#E3007D"
+    },
+    {
+     "name": "Black",
+     "hex": "#111111"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Yellow Gold",
+     "hex": "#D4AF37"
+    },
+    {
+     "name": "Antique Gold",
+     "hex": "#B8913A"
+    },
+    {
+     "name": "Copper",
+     "hex": "#B87333"
+    }
+   ],
+   "gems": [
+    "Amber",
+    "Topaz",
+    "Tiger's eye",
+    "Carnelian"
+   ],
+   "lips": [
+    {
+     "name": "Brick",
+     "hex": "#A4442A"
+    },
+    {
+     "name": "Terracotta",
+     "hex": "#B8603F"
+    },
+    {
+     "name": "Warm Nude",
+     "hex": "#A86A4F"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Terracotta",
+     "hex": "#C26A4A"
+    },
+    {
+     "name": "Apricot",
+     "hex": "#D88A5F"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Copper",
+     "hex": "#B06A35"
+    },
+    {
+     "name": "Olive",
+     "hex": "#6E6E33"
+    },
+    {
+     "name": "Bronze",
+     "hex": "#8E6430"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Auburn",
+     "hex": "#8A3B1F"
+    },
+    {
+     "name": "Copper",
+     "hex": "#B0522A"
+    },
+    {
+     "name": "Chestnut",
+     "hex": "#7A4626"
+    }
+   ],
+   "key": "autumn-warm",
+   "family": "Autumn",
+   "undertone": "Warm",
+   "label": "Autumn · Warm undertone",
+   "rule": "Your warm undertone is your cue for yellow gold and warmer shades such as cream, coral and olive. As an Autumn, go medium-to-deep and rich — earthy, spiced and toasted, never icy or neon.",
+   "why": {
+    "jewellery": "Yellow gold and antique gold sit in harmony with your undertone; let the stones echo rust and mustard.",
+    "hairstyles": "Hair in auburn, copper, chestnut harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Brick lips with terracotta cheeks; eyes in copper or olive.",
+    "clothing": "Wear rust, mustard and olive near your face; build the base in cream and camel.",
+    "footwear": "Ground your looks in coffee or khaki leather; let one pair in rust carry the colour, with yellow gold hardware.",
+    "office": "Anchor in cream and khaki, add one rust piece near the face, small yellow gold details.",
+    "party": "Your most magnetic shades — rust, pumpkin or teal — in a fabric with a little shine, finished with yellow gold.",
+    "festive": "Choose rust or teal with yellow gold zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in mustard or forest that glow in low light, finished with yellow gold.",
+    "casual": "Easy pieces in camel and olive — denim and knits that still flatter.",
+    "vacation": "Airy linens in cream with terracotta or mustard for sunshine.",
+    "black-tie": "Floor-length bronze or rust — or a sharp tuxedo in khaki — finished with yellow gold jewellery or cufflinks."
+   }
+  },
+  "autumn-neutral": {
+   "mood": "Rich and grounded",
+   "colours": [
+    {
+     "name": "Deep Teal",
+     "hex": "#1F5F5B"
+    },
+    {
+     "name": "Burgundy",
+     "hex": "#7B2333"
+    },
+    {
+     "name": "Moss",
+     "hex": "#6E7F3A"
+    },
+    {
+     "name": "Soft Terracotta",
+     "hex": "#B9745A"
+    },
+    {
+     "name": "Deep Rose",
+     "hex": "#A9646A"
+    },
+    {
+     "name": "Taupe",
+     "hex": "#9E8A78"
+    },
+    {
+     "name": "Plum Brown",
+     "hex": "#5E3A3F"
+    },
+    {
+     "name": "Muted Mustard",
+     "hex": "#C2A257"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Oyster",
+     "hex": "#EDE4D6"
+    },
+    {
+     "name": "Warm Grey",
+     "hex": "#9C9488"
+    },
+    {
+     "name": "Chocolate",
+     "hex": "#4A2C20"
+    },
+    {
+     "name": "Olive Brown",
+     "hex": "#5E5638"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Neon Yellow",
+     "hex": "#E9FF3B"
+    },
+    {
+     "name": "Icy Blue",
+     "hex": "#CFE8F7"
+    },
+    {
+     "name": "Optic White",
+     "hex": "#FFFFFF"
+    },
+    {
+     "name": "Hot Pink",
+     "hex": "#FF4F9A"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Rose Gold",
+     "hex": "#C99A84"
+    },
+    {
+     "name": "Antique Brass",
+     "hex": "#A88B4E"
+    },
+    {
+     "name": "Gunmetal",
+     "hex": "#6B6E70"
+    }
+   ],
+   "gems": [
+    "Garnet",
+    "Smoky quartz",
+    "Jade",
+    "Champagne diamond"
+   ],
+   "lips": [
+    {
+     "name": "Rosewood",
+     "hex": "#A0625D"
+    },
+    {
+     "name": "Berry Brown",
+     "hex": "#7A3B3F"
+    },
+    {
+     "name": "Spiced Nude",
+     "hex": "#8A5A44"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Soft Brick",
+     "hex": "#A85F4C"
+    },
+    {
+     "name": "Warm Rose",
+     "hex": "#C2817A"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Taupe",
+     "hex": "#9A8573"
+    },
+    {
+     "name": "Plum",
+     "hex": "#5E3A4A"
+    },
+    {
+     "name": "Deep Olive",
+     "hex": "#556B2F"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Chocolate",
+     "hex": "#4A2C20"
+    },
+    {
+     "name": "Mahogany",
+     "hex": "#5E2A1E"
+    },
+    {
+     "name": "Soft Brown",
+     "hex": "#6B4A35"
+    }
+   ],
+   "key": "autumn-neutral",
+   "family": "Autumn",
+   "undertone": "Neutral",
+   "label": "Autumn · Neutral undertone",
+   "rule": "Your near-neutral undertone gives you room to explore both sides — rose gold and mixed metals, soft white, dusty rose, jade and teal. As an Autumn, go medium-to-deep and rich — earthy, spiced and toasted, never icy or neon.",
+   "why": {
+    "jewellery": "Rose gold and antique brass sit in harmony with your undertone; let the stones echo deep teal and burgundy.",
+    "hairstyles": "Hair in chocolate, mahogany, soft brown harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Rosewood lips with soft brick cheeks; eyes in taupe or plum.",
+    "clothing": "Wear deep teal, burgundy and moss near your face; build the base in oyster and warm grey.",
+    "footwear": "Ground your looks in chocolate or olive brown leather; let one pair in deep teal carry the colour, with rose gold hardware.",
+    "office": "Anchor in oyster and olive brown, add one deep teal piece near the face, small rose gold details.",
+    "party": "Your most magnetic shades — deep teal, deep rose or taupe — in a fabric with a little shine, finished with rose gold.",
+    "festive": "Choose deep teal or taupe with rose gold zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in burgundy or plum brown that glow in low light, finished with rose gold.",
+    "casual": "Easy pieces in warm grey and moss — denim and knits that still flatter.",
+    "vacation": "Airy linens in oyster with soft terracotta or burgundy for sunshine.",
+    "black-tie": "Floor-length muted mustard or deep teal — or a sharp tuxedo in olive brown — finished with rose gold jewellery or cufflinks."
+   }
+  },
+  "autumn-cool": {
+   "mood": "Deep, smoky and moody",
+   "colours": [
+    {
+     "name": "Aubergine",
+     "hex": "#4E2A3A"
+    },
+    {
+     "name": "Pine",
+     "hex": "#01594F"
+    },
+    {
+     "name": "Deep Plum",
+     "hex": "#5C2C4E"
+    },
+    {
+     "name": "Slate Teal",
+     "hex": "#4F7676"
+    },
+    {
+     "name": "Wine",
+     "hex": "#6B1F3A"
+    },
+    {
+     "name": "Smoky Blue",
+     "hex": "#4A5D7A"
+    },
+    {
+     "name": "Mauve",
+     "hex": "#8A6A78"
+    },
+    {
+     "name": "Spruce",
+     "hex": "#3C5A54"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Charcoal",
+     "hex": "#3A3A3F"
+    },
+    {
+     "name": "Taupe Grey",
+     "hex": "#8A8380"
+    },
+    {
+     "name": "Espresso",
+     "hex": "#3B2A20"
+    },
+    {
+     "name": "Soft White",
+     "hex": "#EDEAE4"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Orange",
+     "hex": "#F28C28"
+    },
+    {
+     "name": "Bright Yellow",
+     "hex": "#FFE135"
+    },
+    {
+     "name": "Camel",
+     "hex": "#C19A6B"
+    },
+    {
+     "name": "Peach",
+     "hex": "#FFBE98"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Gunmetal",
+     "hex": "#53565A"
+    },
+    {
+     "name": "Pewter",
+     "hex": "#8E9196"
+    },
+    {
+     "name": "Brushed Silver",
+     "hex": "#B5B8BC"
+    }
+   ],
+   "gems": [
+    "Garnet",
+    "Iolite",
+    "Smoky quartz",
+    "Black pearl"
+   ],
+   "lips": [
+    {
+     "name": "Wine",
+     "hex": "#6E1F3A"
+    },
+    {
+     "name": "Berry",
+     "hex": "#8E2F55"
+    },
+    {
+     "name": "Mauve",
+     "hex": "#9A6070"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Plum Rose",
+     "hex": "#9A4A64"
+    },
+    {
+     "name": "Dusty Berry",
+     "hex": "#A85A72"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Graphite",
+     "hex": "#3A3A3F"
+    },
+    {
+     "name": "Plum",
+     "hex": "#4A1F48"
+    },
+    {
+     "name": "Pine",
+     "hex": "#2F5A50"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Dark Ash Brown",
+     "hex": "#3E3633"
+    },
+    {
+     "name": "Espresso",
+     "hex": "#2B1E1A"
+    },
+    {
+     "name": "Cool Chocolate",
+     "hex": "#4A3A35"
+    }
+   ],
+   "key": "autumn-cool",
+   "family": "Autumn",
+   "undertone": "Cool",
+   "label": "Autumn · Cool undertone",
+   "rule": "Your cool undertone points you toward silver, white gold and cooler shades such as crisp white, berry and blue. As an Autumn, go medium-to-deep and rich — earthy, spiced and toasted, never icy or neon.",
+   "why": {
+    "jewellery": "Gunmetal and pewter sit in harmony with your undertone; let the stones echo aubergine and pine.",
+    "hairstyles": "Hair in dark ash brown, espresso, cool chocolate harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Wine lips with plum rose cheeks; eyes in graphite or plum.",
+    "clothing": "Wear aubergine, pine and deep plum near your face; build the base in charcoal and taupe grey.",
+    "footwear": "Ground your looks in espresso or soft white leather; let one pair in aubergine carry the colour, with gunmetal hardware.",
+    "office": "Anchor in charcoal and soft white, add one aubergine piece near the face, small gunmetal details.",
+    "party": "Your most magnetic shades — aubergine, wine or smoky blue — in a fabric with a little shine, finished with gunmetal.",
+    "festive": "Choose aubergine or smoky blue with gunmetal zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in pine or mauve that glow in low light, finished with gunmetal.",
+    "casual": "Easy pieces in taupe grey and deep plum — denim and knits that still flatter.",
+    "vacation": "Airy linens in charcoal with slate teal or pine for sunshine.",
+    "black-tie": "Floor-length spruce or aubergine — or a sharp tuxedo in soft white — finished with gunmetal jewellery or cufflinks."
+   }
+  },
+  "winter-warm": {
+   "mood": "Bold, warm and dramatic",
+   "colours": [
+    {
+     "name": "Tomato Red",
+     "hex": "#D2382B"
+    },
+    {
+     "name": "Deep Emerald",
+     "hex": "#00704A"
+    },
+    {
+     "name": "Warm Teal",
+     "hex": "#00797A"
+    },
+    {
+     "name": "Burnt Orange",
+     "hex": "#C25A1E"
+    },
+    {
+     "name": "Garnet",
+     "hex": "#73232B"
+    },
+    {
+     "name": "Marigold",
+     "hex": "#E3A21A"
+    },
+    {
+     "name": "Chocolate",
+     "hex": "#4A2C20"
+    },
+    {
+     "name": "Bright Navy",
+     "hex": "#1F3A93"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Espresso",
+     "hex": "#3B2A20"
+    },
+    {
+     "name": "Black-Brown",
+     "hex": "#2B1E1A"
+    },
+    {
+     "name": "Ivory",
+     "hex": "#FFF8E8"
+    },
+    {
+     "name": "Camel",
+     "hex": "#B0834F"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Pastel Pink",
+     "hex": "#F8C8DC"
+    },
+    {
+     "name": "Icy Blue",
+     "hex": "#CFE8F7"
+    },
+    {
+     "name": "Lavender",
+     "hex": "#B9A6D6"
+    },
+    {
+     "name": "Dusty Grey",
+     "hex": "#A9A9A9"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Yellow Gold",
+     "hex": "#D4AF37"
+    },
+    {
+     "name": "Bronze",
+     "hex": "#8C6239"
+    },
+    {
+     "name": "Rich Gold",
+     "hex": "#C9A030"
+    }
+   ],
+   "gems": [
+    "Emerald",
+    "Garnet",
+    "Fire opal",
+    "Tiger's eye"
+   ],
+   "lips": [
+    {
+     "name": "Brick Red",
+     "hex": "#A3301F"
+    },
+    {
+     "name": "Warm Red",
+     "hex": "#C8302B"
+    },
+    {
+     "name": "Spiced Plum",
+     "hex": "#6E2E3A"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Brick",
+     "hex": "#A44E3A"
+    },
+    {
+     "name": "Deep Coral",
+     "hex": "#C9654C"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Bronze",
+     "hex": "#8C6239"
+    },
+    {
+     "name": "Deep Olive",
+     "hex": "#4F5A2A"
+    },
+    {
+     "name": "Espresso",
+     "hex": "#3B2A20"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Espresso",
+     "hex": "#3B2418"
+    },
+    {
+     "name": "Dark Chocolate",
+     "hex": "#4A2C20"
+    },
+    {
+     "name": "Mahogany",
+     "hex": "#5E2A1E"
+    }
+   ],
+   "key": "winter-warm",
+   "family": "Winter",
+   "undertone": "Warm",
+   "label": "Winter · Warm undertone",
+   "rule": "Your warm undertone is your cue for yellow gold and warmer shades such as cream, coral and olive. As a Winter, go deep or icy with crisp contrast — saturated jewel tones, never dusty or muted.",
+   "why": {
+    "jewellery": "Yellow gold and bronze sit in harmony with your undertone; let the stones echo tomato red and deep emerald.",
+    "hairstyles": "Hair in espresso, dark chocolate, mahogany harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Brick red lips with brick cheeks; eyes in bronze or deep olive.",
+    "clothing": "Wear tomato red, deep emerald and warm teal near your face; build the base in espresso and black-brown.",
+    "footwear": "Ground your looks in ivory or camel leather; let one pair in tomato red carry the colour, with yellow gold hardware.",
+    "office": "Anchor in espresso and camel, add one tomato red piece near the face, small yellow gold details.",
+    "party": "Your most magnetic shades — tomato red, garnet or marigold — in a fabric with a little shine, finished with yellow gold.",
+    "festive": "Choose tomato red or marigold with yellow gold zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in deep emerald or chocolate that glow in low light, finished with yellow gold.",
+    "casual": "Easy pieces in black-brown and warm teal — denim and knits that still flatter.",
+    "vacation": "Airy linens in espresso with burnt orange or deep emerald for sunshine.",
+    "black-tie": "Floor-length bright navy or tomato red — or a sharp tuxedo in camel — finished with yellow gold jewellery or cufflinks."
+   }
+  },
+  "winter-neutral": {
+   "mood": "Regal and high-contrast",
+   "colours": [
+    {
+     "name": "Emerald",
+     "hex": "#00754A"
+    },
+    {
+     "name": "Ruby",
+     "hex": "#9B111E"
+    },
+    {
+     "name": "Deep Teal",
+     "hex": "#014D4E"
+    },
+    {
+     "name": "Magenta",
+     "hex": "#B0174E"
+    },
+    {
+     "name": "Black Cherry",
+     "hex": "#3D0C1E"
+    },
+    {
+     "name": "Royal Blue",
+     "hex": "#2A52BE"
+    },
+    {
+     "name": "True Red",
+     "hex": "#C8102E"
+    },
+    {
+     "name": "Soft Ivory",
+     "hex": "#F7F4EC"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Black",
+     "hex": "#111111"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#333333"
+    },
+    {
+     "name": "Soft White",
+     "hex": "#F7F4EC"
+    },
+    {
+     "name": "Black-Brown",
+     "hex": "#2B1E1A"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Pastel Peach",
+     "hex": "#FFD3B6"
+    },
+    {
+     "name": "Dusty Rose",
+     "hex": "#C49A9A"
+    },
+    {
+     "name": "Khaki",
+     "hex": "#C3B091"
+    },
+    {
+     "name": "Mustard",
+     "hex": "#C9A227"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Rose Gold",
+     "hex": "#B76E79"
+    },
+    {
+     "name": "Silver",
+     "hex": "#C9CDD2"
+    },
+    {
+     "name": "Rich Gold",
+     "hex": "#C9A030"
+    }
+   ],
+   "gems": [
+    "Ruby",
+    "Emerald",
+    "Onyx",
+    "Diamond"
+   ],
+   "lips": [
+    {
+     "name": "True Red",
+     "hex": "#C8102E"
+    },
+    {
+     "name": "Deep Berry",
+     "hex": "#7A1E48"
+    },
+    {
+     "name": "Brick Red",
+     "hex": "#9E2B25"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Plum Rose",
+     "hex": "#9A4A64"
+    },
+    {
+     "name": "Raspberry",
+     "hex": "#B03060"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Black",
+     "hex": "#111111"
+    },
+    {
+     "name": "Emerald",
+     "hex": "#00754A"
+    },
+    {
+     "name": "Plum Bronze",
+     "hex": "#5A3A40"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Black",
+     "hex": "#111111"
+    },
+    {
+     "name": "Dark Espresso",
+     "hex": "#2B1E1A"
+    },
+    {
+     "name": "Black Cherry",
+     "hex": "#3D0C1E"
+    }
+   ],
+   "key": "winter-neutral",
+   "family": "Winter",
+   "undertone": "Neutral",
+   "label": "Winter · Neutral undertone",
+   "rule": "Your near-neutral undertone gives you room to explore both sides — rose gold and mixed metals, soft white, dusty rose, jade and teal. As a Winter, go deep or icy with crisp contrast — saturated jewel tones, never dusty or muted.",
+   "why": {
+    "jewellery": "Rose gold and silver sit in harmony with your undertone; let the stones echo emerald and ruby.",
+    "hairstyles": "Hair in black, dark espresso, black cherry harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "True red lips with plum rose cheeks; eyes in black or emerald.",
+    "clothing": "Wear emerald, ruby and deep teal near your face; build the base in black and charcoal.",
+    "footwear": "Ground your looks in soft white or black-brown leather; let one pair in emerald carry the colour, with rose gold hardware.",
+    "office": "Anchor in black and black-brown, add one emerald piece near the face, small rose gold details.",
+    "party": "Your most magnetic shades — emerald, black cherry or royal blue — in a fabric with a little shine, finished with rose gold.",
+    "festive": "Choose emerald or royal blue with rose gold zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in ruby or true red that glow in low light, finished with rose gold.",
+    "casual": "Easy pieces in charcoal and deep teal — denim and knits that still flatter.",
+    "vacation": "Airy linens in black with magenta or ruby for sunshine.",
+    "black-tie": "Floor-length soft ivory or emerald — or a sharp tuxedo in black-brown — finished with rose gold jewellery or cufflinks."
+   }
+  },
+  "winter-cool": {
+   "mood": "Icy, crisp and electric",
+   "colours": [
+    {
+     "name": "Sapphire",
+     "hex": "#0F52BA"
+    },
+    {
+     "name": "Blue Red",
+     "hex": "#B3112E"
+    },
+    {
+     "name": "Fuchsia",
+     "hex": "#C71585"
+    },
+    {
+     "name": "Emerald",
+     "hex": "#009473"
+    },
+    {
+     "name": "Icy Blue",
+     "hex": "#CFE8F7"
+    },
+    {
+     "name": "Royal Purple",
+     "hex": "#5B2C83"
+    },
+    {
+     "name": "Cobalt",
+     "hex": "#0047AB"
+    },
+    {
+     "name": "Icy Pink",
+     "hex": "#F4D7E6"
+    }
+   ],
+   "neutrals": [
+    {
+     "name": "Optic White",
+     "hex": "#FFFFFF"
+    },
+    {
+     "name": "Black",
+     "hex": "#111111"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#36454F"
+    },
+    {
+     "name": "Navy",
+     "hex": "#1F2A44"
+    }
+   ],
+   "avoid": [
+    {
+     "name": "Orange",
+     "hex": "#F28C28"
+    },
+    {
+     "name": "Camel",
+     "hex": "#C19A6B"
+    },
+    {
+     "name": "Mustard",
+     "hex": "#C9A227"
+    },
+    {
+     "name": "Rust",
+     "hex": "#A8492A"
+    }
+   ],
+   "metals": [
+    {
+     "name": "Platinum",
+     "hex": "#E5E4E2"
+    },
+    {
+     "name": "Silver",
+     "hex": "#C9CDD2"
+    },
+    {
+     "name": "White Gold",
+     "hex": "#E1E1DC"
+    }
+   ],
+   "gems": [
+    "Sapphire",
+    "Ruby",
+    "Diamond",
+    "Tanzanite"
+   ],
+   "lips": [
+    {
+     "name": "Blue Red",
+     "hex": "#B3112E"
+    },
+    {
+     "name": "Fuchsia",
+     "hex": "#C2185B"
+    },
+    {
+     "name": "Berry",
+     "hex": "#8E1F4A"
+    }
+   ],
+   "blush": [
+    {
+     "name": "Cool Pink",
+     "hex": "#E2718F"
+    },
+    {
+     "name": "Berry",
+     "hex": "#B84A70"
+    }
+   ],
+   "eyes": [
+    {
+     "name": "Charcoal",
+     "hex": "#36454F"
+    },
+    {
+     "name": "Silver",
+     "hex": "#BFC3C8"
+    },
+    {
+     "name": "Plum",
+     "hex": "#4E2A4F"
+    }
+   ],
+   "hair": [
+    {
+     "name": "Blue Black",
+     "hex": "#141822"
+    },
+    {
+     "name": "Cool Espresso",
+     "hex": "#2B2321"
+    },
+    {
+     "name": "Silver",
+     "hex": "#D9D9D9"
+    }
+   ],
+   "key": "winter-cool",
+   "family": "Winter",
+   "undertone": "Cool",
+   "label": "Winter · Cool undertone",
+   "rule": "Your cool undertone points you toward silver, white gold and cooler shades such as crisp white, berry and blue. As a Winter, go deep or icy with crisp contrast — saturated jewel tones, never dusty or muted.",
+   "why": {
+    "jewellery": "Platinum and silver sit in harmony with your undertone; let the stones echo sapphire and blue red.",
+    "hairstyles": "Hair in blue black, cool espresso, silver harmonises with your skin; avoid shades that fight your undertone.",
+    "makeup": "Blue red lips with cool pink cheeks; eyes in charcoal or silver.",
+    "clothing": "Wear sapphire, blue red and fuchsia near your face; build the base in optic white and black.",
+    "footwear": "Ground your looks in charcoal or navy leather; let one pair in sapphire carry the colour, with platinum hardware.",
+    "office": "Anchor in optic white and navy, add one sapphire piece near the face, small platinum details.",
+    "party": "Your most magnetic shades — sapphire, icy blue or royal purple — in a fabric with a little shine, finished with platinum.",
+    "festive": "Choose sapphire or royal purple with platinum zari and jewellery for weddings, sangeet and festivals.",
+    "date-night": "Soft, touchable textures in blue red or cobalt that glow in low light, finished with platinum.",
+    "casual": "Easy pieces in black and fuchsia — denim and knits that still flatter.",
+    "vacation": "Airy linens in optic white with emerald or blue red for sunshine.",
+    "black-tie": "Floor-length icy pink or sapphire — or a sharp tuxedo in navy — finished with platinum jewellery or cufflinks."
+   }
+  }
+ },
+ "categories": {
+  "jewellery": {
+   "title": "Jewellery",
+   "kicker": "Metals & stones",
+   "kind": "category"
+  },
+  "hairstyles": {
+   "title": "Hair & Hairstyles",
+   "kicker": "Colour & cut",
+   "kind": "category"
+  },
+  "makeup": {
+   "title": "Makeup & Grooming",
+   "kicker": "Face",
+   "kind": "category"
+  },
+  "clothing": {
+   "title": "Clothing & Colour",
+   "kicker": "Your wardrobe",
+   "kind": "category"
+  },
+  "footwear": {
+   "title": "Footwear",
+   "kicker": "Shoes · boots · heels",
+   "kind": "category"
+  },
+  "office": {
+   "title": "Office & Interview",
+   "kicker": "Professional wear",
+   "kind": "occasion"
+  },
+  "party": {
+   "title": "Party & Occasion",
+   "kicker": "Cocktail · celebration",
+   "kind": "occasion"
+  },
+  "festive": {
+   "title": "Festive & Wedding",
+   "kicker": "Ethnic · celebration",
+   "kind": "occasion"
+  },
+  "date-night": {
+   "title": "Date Night",
+   "kicker": "Dinner · romance",
+   "kind": "occasion"
+  },
+  "casual": {
+   "title": "Weekend Casual",
+   "kicker": "Everyday · brunch",
+   "kind": "occasion"
+  },
+  "vacation": {
+   "title": "Vacation & Resort",
+   "kicker": "Beach · travel",
+   "kind": "occasion"
+  },
+  "black-tie": {
+   "title": "Black Tie & Gala",
+   "kicker": "Formal · red carpet",
+   "kind": "occasion"
+  }
+ },
+ "seasonFamily": {
+  "Light Spring": "Spring",
+  "Warm Spring": "Spring",
+  "Bright Spring": "Spring",
+  "Light Summer": "Summer",
+  "Cool Summer": "Summer",
+  "Soft Summer": "Summer",
+  "Soft Autumn": "Autumn",
+  "Warm Autumn": "Autumn",
+  "Deep Autumn": "Autumn",
+  "Cool Winter": "Winter",
+  "Deep Winter": "Winter",
+  "Bright Winter": "Winter"
+ },
+ "undertoneRule": {
+  "Warm": "Your warm undertone is your cue for yellow gold and warmer shades such as cream, coral and olive.",
+  "Cool": "Your cool undertone points you toward silver, white gold and cooler shades such as crisp white, berry and blue.",
+  "Neutral": "Your near-neutral undertone gives you room to explore both sides — rose gold and mixed metals, soft white, dusty rose, jade and teal."
+ },
+ "familyRule": {
+  "Spring": "As a Spring, keep colours light-to-medium and clear — fresh and sunlit, never heavy, dark or greyed.",
+  "Summer": "As a Summer, keep colours light-to-medium and soft — blended, with a hint of grey, never stark or neon.",
+  "Autumn": "As an Autumn, go medium-to-deep and rich — earthy, spiced and toasted, never icy or neon.",
+  "Winter": "As a Winter, go deep or icy with crisp contrast — saturated jewel tones, never dusty or muted."
+ }
+}

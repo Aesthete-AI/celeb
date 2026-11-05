@@ -1,0 +1,5 @@
+# photo ids build.py must never publish (one per line, optional '# reason')
+1082028656805856  # hairstyles/female: dog, not a hairstyle (Pixabay)
+3130906722603372  # clothing/male: shirtless back view (Pixabay)
+1207121514000342  # clothing/male: silhouette, outfit not visible (Pixabay)
+4070086082632523  # office/male: balaclava and sunglasses, not office wear (Pixabay)

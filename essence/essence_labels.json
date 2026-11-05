@@ -1,0 +1,3346 @@
+{
+ "essences": [
+  "Dramatic",
+  "Natural",
+  "Classic",
+  "Romantic",
+  "Gamine",
+  "Ingenue",
+  "Ethereal"
+ ],
+ "synonyms": {
+  "Gamine": "High-Spirited",
+  "Ingenue": "Youthful",
+  "Ethereal": "Angelic"
+ },
+ "people": [
+  {
+   "person": "Abhishek Bachchan",
+   "stem": "Abhishek_Bachchan",
+   "search_name": "Abhishek Bachchan",
+   "gender": "male",
+   "label_text": "Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 1.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Adele",
+   "stem": "Adele",
+   "search_name": "Adele",
+   "gender": "female",
+   "label_text": "Romantic, Natural, Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.2,
+    "Natural": 0.3,
+    "Classic": 0.0,
+    "Romantic": 0.5,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Natural",
+    "Dramatic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Adrian Grenier",
+   "stem": "Adrian_Grenier",
+   "search_name": "Adrian Grenier",
+   "gender": "male",
+   "label_text": "Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 1.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Aishwarya Rai",
+   "stem": "Aishwarya_Rai",
+   "search_name": "Aishwarya Rai",
+   "gender": "female",
+   "label_text": "Romantic with some Natural, Classic, Youthful",
+   "label_text_2": "Romantic, Classic, Natural",
+   "percent_text": "70% Romantic; 10% each Natural, Classic, Youthful (Ethereal also reported)",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.1,
+    "Classic": 0.1,
+    "Romantic": 0.7,
+    "Gamine": 0.0,
+    "Ingenue": 0.1,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Natural",
+    "Classic",
+    "Ingenue"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": "Ethereal also reported by the source; not counted in the blend"
+  },
+  {
+   "person": "Ankhaten",
+   "stem": "Akhenaten",
+   "search_name": "Akhenaten",
+   "gender": "male",
+   "label_text": "Ethereal",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 1.0
+   },
+   "essences": [
+    "Ethereal"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": "Ancient pharaoh: no photographs exist, only statues and reliefs"
+  },
+  {
+   "person": "Antonio Banderas",
+   "stem": "Antonio_Banderas",
+   "search_name": "Antonio Banderas",
+   "gender": "male",
+   "label_text": "Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 1.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Angelina Jolie",
+   "stem": "Angelina_Jolie",
+   "search_name": "Angelina Jolie",
+   "gender": "female",
+   "label_text": "Romantic, Dramatic, Classic",
+   "label_text_2": "Romantic, Classic, Dramatic",
+   "percent_text": "70% Romantic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.18,
+    "Natural": 0.0,
+    "Classic": 0.12,
+    "Romantic": 0.7,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Dramatic",
+    "Classic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Angelica Houston",
+   "stem": "Anjelica_Huston",
+   "search_name": "Anjelica Huston",
+   "gender": "female",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Anna Kendrick",
+   "stem": "Anna_Kendrick",
+   "search_name": "Anna Kendrick",
+   "gender": "female",
+   "label_text": "Classic, Romantic, Gamine",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.5,
+    "Romantic": 0.3,
+    "Gamine": 0.2,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic",
+    "Romantic",
+    "Gamine"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Armie Hammer",
+   "stem": "Armie_Hammer",
+   "search_name": "Armie Hammer",
+   "gender": "male",
+   "label_text": "Classic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 1.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Audrey Coyne",
+   "stem": "Audrey_Coyne",
+   "search_name": "Audrey Coyne",
+   "gender": "female",
+   "label_text": "Classic, Youthful, with some Gamine and Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.1,
+    "Classic": 0.4,
+    "Romantic": 0.0,
+    "Gamine": 0.2,
+    "Ingenue": 0.3,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic",
+    "Ingenue",
+    "Gamine",
+    "Natural"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Ava Gardener",
+   "stem": "Ava_Gardner",
+   "search_name": "Ava Gardner",
+   "gender": "female",
+   "label_text": "Romantic, Classic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.4,
+    "Romantic": 0.6,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Classic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Ben Affleck",
+   "stem": "Ben_Affleck",
+   "search_name": "Ben Affleck",
+   "gender": "male",
+   "label_text": "Classic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 1.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Bert Kreischer",
+   "stem": "Bert_Kreischer",
+   "search_name": "Bert Kreischer",
+   "gender": "male",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Bette Midler",
+   "stem": "Bette_Midler",
+   "search_name": "Bette Midler",
+   "gender": "female",
+   "label_text": "Gamine, Romantic, with some Classic and Natural",
+   "label_text_2": "",
+   "percent_text": "45% High Spirited, 35% Romantic, 10% Classic and 10% Natural",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.1,
+    "Classic": 0.1,
+    "Romantic": 0.35,
+    "Gamine": 0.45,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine",
+    "Romantic",
+    "Classic",
+    "Natural"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Betty White",
+   "stem": "Betty_White",
+   "search_name": "Betty White",
+   "gender": "female",
+   "label_text": "Youthful with high spirited",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.4,
+    "Ingenue": 0.6,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue",
+    "Gamine"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Bonnie Aarons",
+   "stem": "Bonnie_Aarons",
+   "search_name": "Bonnie Aarons",
+   "gender": "female",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Bill Clinton",
+   "stem": "Bill_Clinton",
+   "search_name": "Bill Clinton",
+   "gender": "male",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Billy Crystal",
+   "stem": "Billy_Crystal",
+   "search_name": "Billy Crystal",
+   "gender": "male",
+   "label_text": "Gamine",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Brit Marling",
+   "stem": "Brit_Marling",
+   "search_name": "Brit Marling",
+   "gender": "female",
+   "label_text": "Angelic with Classic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.4,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.6
+   },
+   "essences": [
+    "Ethereal",
+    "Classic"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Boris Karloff",
+   "stem": "Boris_Karloff",
+   "search_name": "Boris Karloff",
+   "gender": "male",
+   "label_text": "Ethereal",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 1.0
+   },
+   "essences": [
+    "Ethereal"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Bryce Dallas Howard",
+   "stem": "Bryce_Dallas_Howard",
+   "search_name": "Bryce Dallas Howard",
+   "gender": "female",
+   "label_text": "Angelic, classic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.4,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.6
+   },
+   "essences": [
+    "Ethereal",
+    "Classic"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Cantinflas",
+   "stem": "Cantinflas",
+   "search_name": "Cantinflas",
+   "gender": "male",
+   "label_text": "Gamine (High- Spirited)",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Carel Struycken",
+   "stem": "Carel_Struycken",
+   "search_name": "Carel Struycken",
+   "gender": "male",
+   "label_text": "Ethereal",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 1.0
+   },
+   "essences": [
+    "Ethereal"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Charlize Theron",
+   "stem": "Charlize_Theron",
+   "search_name": "Charlize Theron",
+   "gender": "female",
+   "label_text": "Romantic, classic, natural, dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.1,
+    "Natural": 0.2,
+    "Classic": 0.3,
+    "Romantic": 0.4,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Classic",
+    "Natural",
+    "Dramatic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Cher",
+   "stem": "Cher",
+   "search_name": "Cher",
+   "gender": "female",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Chita Rivera",
+   "stem": "Chita_Rivera",
+   "search_name": "Chita Rivera",
+   "gender": "female",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Chris Rock",
+   "stem": "Chris_Rock",
+   "search_name": "Chris Rock",
+   "gender": "male",
+   "label_text": "Gamine",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Chris O'Donnell",
+   "stem": "Chris_O_Donnell",
+   "search_name": "Chris O'Donnell",
+   "gender": "male",
+   "label_text": "Ingenue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 1.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Chef Dan Hunter",
+   "stem": "Dan_Hunter_chef",
+   "search_name": "Dan Hunter chef",
+   "gender": "male",
+   "label_text": "Ingenue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 1.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Dave Letterman",
+   "stem": "David_Letterman",
+   "search_name": "David Letterman",
+   "gender": "male",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Daniel Day Lewis",
+   "stem": "Daniel_Day_Lewis",
+   "search_name": "Daniel Day-Lewis",
+   "gender": "male",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Daryl Hannah",
+   "stem": "Daryl_Hannah",
+   "search_name": "Daryl Hannah",
+   "gender": "female",
+   "label_text": "Angelic, Natural, Dramatic, Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.2,
+    "Natural": 0.3,
+    "Classic": 0.0,
+    "Romantic": 0.1,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.4
+   },
+   "essences": [
+    "Ethereal",
+    "Natural",
+    "Dramatic",
+    "Romantic"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Dev Patel",
+   "stem": "Dev_Patel",
+   "search_name": "Dev Patel",
+   "gender": "male",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Dot Jones",
+   "stem": "Dot_Jones",
+   "search_name": "Dot Jones",
+   "gender": "female",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Eartha Kitt",
+   "stem": "Eartha_Kitt",
+   "search_name": "Eartha Kitt",
+   "gender": "female",
+   "label_text": "Gamine",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Edie Falko",
+   "stem": "Edie_Falco",
+   "search_name": "Edie Falco",
+   "gender": "female",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Eddie Jemison",
+   "stem": "Eddie_Jemison",
+   "search_name": "Eddie Jemison",
+   "gender": "male",
+   "label_text": "Gamine (High- Spirited)",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Elizabeth Taylor",
+   "stem": "Elizabeth_Taylor",
+   "search_name": "Elizabeth Taylor",
+   "gender": "female",
+   "label_text": "Romantic, Classic, Dramatic",
+   "label_text_2": "70% Romantic, 20% Classic, 10% Dramatic",
+   "percent_text": "",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.1,
+    "Natural": 0.0,
+    "Classic": 0.2,
+    "Romantic": 0.7,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Classic",
+    "Dramatic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Elvis Presley",
+   "stem": "Elvis_Presley",
+   "search_name": "Elvis Presley",
+   "gender": "male",
+   "label_text": "Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 1.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Emma Stone",
+   "stem": "Emma_Stone",
+   "search_name": "Emma Stone",
+   "gender": "female",
+   "label_text": "Youthful, Classic, High Spirited,  Romantic, with some Natural",
+   "label_text_2": "",
+   "percent_text": "35% Youthful, 25% Classic, 15% High Spirited, 15% Romantic, 10% Natural",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.1,
+    "Classic": 0.25,
+    "Romantic": 0.15,
+    "Gamine": 0.15,
+    "Ingenue": 0.35,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue",
+    "Classic",
+    "Gamine",
+    "Romantic",
+    "Natural"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Fawad Khan",
+   "stem": "Fawad_Khan",
+   "search_name": "Fawad Khan",
+   "gender": "male",
+   "label_text": "Dramatic, Romantic, Natural, Classic",
+   "label_text_2": "",
+   "percent_text": "35% Dramatic, 30% Romantic, 20% Natural, 15% Classic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.35,
+    "Natural": 0.2,
+    "Classic": 0.15,
+    "Romantic": 0.3,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic",
+    "Romantic",
+    "Natural",
+    "Classic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Frida Kahlo",
+   "stem": "Frida_Kahlo",
+   "search_name": "Frida Kahlo",
+   "gender": "female",
+   "label_text": "Dramatic and Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "equal split ('and')",
+   "blend": {
+    "Dramatic": 0.5,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.5,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic",
+    "Romantic"
+   ],
+   "dominant": [
+    "Dramatic",
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Gavin Newson",
+   "stem": "Gavin_Newsom",
+   "search_name": "Gavin Newsom",
+   "gender": "male",
+   "label_text": "Classic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 1.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Geoffrey Holder",
+   "stem": "Geoffrey_Holder",
+   "search_name": "Geoffrey Holder",
+   "gender": "male",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "George Clooney",
+   "stem": "George_Clooney",
+   "search_name": "George Clooney",
+   "gender": "male",
+   "label_text": "Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 1.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Gerard Butler",
+   "stem": "Gerard_Butler",
+   "search_name": "Gerard Butler",
+   "gender": "male",
+   "label_text": "Natural, Romantic, with some Dramatic",
+   "label_text_2": "",
+   "percent_text": "45% Natural, 45% Romantic, 10% Dramatic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.1,
+    "Natural": 0.45,
+    "Classic": 0.0,
+    "Romantic": 0.45,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural",
+    "Romantic",
+    "Dramatic"
+   ],
+   "dominant": [
+    "Natural",
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Grace Jones",
+   "stem": "Grace_Jones",
+   "search_name": "Grace Jones",
+   "gender": "female",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Gina McKee",
+   "stem": "Gina_McKee",
+   "search_name": "Gina McKee",
+   "gender": "female",
+   "label_text": "Classic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 1.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Halle Bailey",
+   "stem": "Halle_Bailey",
+   "search_name": "Halle Bailey",
+   "gender": "female",
+   "label_text": "Youthful, Romantic, High Spirited",
+   "label_text_2": "",
+   "percent_text": "45% Youthful, 35% Romantic, 20% High Spirited",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.35,
+    "Gamine": 0.2,
+    "Ingenue": 0.45,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue",
+    "Romantic",
+    "Gamine"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Hedy Lamarr",
+   "stem": "Hedy_Lamarr",
+   "search_name": "Hedy Lamarr",
+   "gender": "female",
+   "label_text": "Romantic, Dramatic, with some Natural, High-Spirited",
+   "label_text_2": "",
+   "percent_text": "70% Romantic, 15% Dramatic, 10% Natural, 5% High-Spirited",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.15,
+    "Natural": 0.1,
+    "Classic": 0.0,
+    "Romantic": 0.7,
+    "Gamine": 0.05,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Dramatic",
+    "Natural",
+    "Gamine"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Hrithik Roshan",
+   "stem": "Hrithik_Roshan",
+   "search_name": "Hrithik Roshan",
+   "gender": "male",
+   "label_text": "Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 1.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Ina Garten",
+   "stem": "Ina_Garten",
+   "search_name": "Ina Garten",
+   "gender": "female",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Idina Menzel",
+   "stem": "Idina_Menzel",
+   "search_name": "Idina Menzel",
+   "gender": "female",
+   "label_text": "Dramatic and Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "equal split ('and')",
+   "blend": {
+    "Dramatic": 0.5,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.5,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic",
+    "Romantic"
+   ],
+   "dominant": [
+    "Dramatic",
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "James McAvoy",
+   "stem": "James_McAvoy",
+   "search_name": "James McAvoy",
+   "gender": "male",
+   "label_text": "Ingenue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 1.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "James Stewart",
+   "stem": "James_Stewart",
+   "search_name": "James Stewart",
+   "gender": "male",
+   "label_text": "Classic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 1.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Janelle Monae",
+   "stem": "Janelle_Monae",
+   "search_name": "Janelle Monáe",
+   "gender": "female",
+   "label_text": "High Spirited, Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.4,
+    "Gamine": 0.6,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine",
+    "Romantic"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Jared Leto",
+   "stem": "Jared_Leto",
+   "search_name": "Jared Leto",
+   "gender": "male",
+   "label_text": "Angelic,  Natural, Classic, Romantic, Dramatic",
+   "label_text_2": "",
+   "percent_text": "35% Angelic, 20% Natural, 15% Classic, 15% Romantic, 15% Dramatic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.15,
+    "Natural": 0.2,
+    "Classic": 0.15,
+    "Romantic": 0.15,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.35
+   },
+   "essences": [
+    "Ethereal",
+    "Natural",
+    "Classic",
+    "Romantic",
+    "Dramatic"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Jean Dujardin",
+   "stem": "Jean_Dujardin",
+   "search_name": "Jean Dujardin",
+   "gender": "male",
+   "label_text": "Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 1.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Jean Simones",
+   "stem": "Jean_Simmons",
+   "search_name": "Jean Simmons",
+   "gender": "female",
+   "label_text": "Romantic with some Classic, and little Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.2,
+    "Natural": 0.0,
+    "Classic": 0.3,
+    "Romantic": 0.5,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Classic",
+    "Dramatic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Jessye Norman",
+   "stem": "Jessye_Norman",
+   "search_name": "Jessye Norman",
+   "gender": "female",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Jim Henson",
+   "stem": "Jim_Henson",
+   "search_name": "Jim Henson",
+   "gender": "male",
+   "label_text": "Ethereal",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 1.0
+   },
+   "essences": [
+    "Ethereal"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "John Denver",
+   "stem": "John_Denver",
+   "search_name": "John Denver",
+   "gender": "male",
+   "label_text": "Ingenue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 1.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "John Lenon",
+   "stem": "John_Lennon",
+   "search_name": "John Lennon",
+   "gender": "male",
+   "label_text": "Natural, Classic, Gamine with some Romantic, Youthful, Angelic",
+   "label_text_2": "",
+   "percent_text": "30% Natural, 25% Classic, 15% High-Spirited, 10% Romantic, 10% Youthful, and 10% Angelic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.3,
+    "Classic": 0.25,
+    "Romantic": 0.1,
+    "Gamine": 0.15,
+    "Ingenue": 0.1,
+    "Ethereal": 0.1
+   },
+   "essences": [
+    "Natural",
+    "Classic",
+    "Gamine",
+    "Romantic",
+    "Ingenue",
+    "Ethereal"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Johnny Depp",
+   "stem": "Johnny_Depp",
+   "search_name": "Johnny Depp",
+   "gender": "male",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Joel Grey",
+   "stem": "Joel_Grey",
+   "search_name": "Joel Grey",
+   "gender": "male",
+   "label_text": "Gamine (High- Spirited)",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Jourdan Dunn",
+   "stem": "Jourdan_Dunn",
+   "search_name": "Jourdan Dunn",
+   "gender": "female",
+   "label_text": "Angelic, Romantic, Classic,Dramatic, with some High-Spirited",
+   "label_text_2": "",
+   "percent_text": "30% Angelic, 25% Romantic, 25% Classic, 10% Dramatic, 10% High-Spirited",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.1,
+    "Natural": 0.0,
+    "Classic": 0.25,
+    "Romantic": 0.25,
+    "Gamine": 0.1,
+    "Ingenue": 0.0,
+    "Ethereal": 0.3
+   },
+   "essences": [
+    "Ethereal",
+    "Romantic",
+    "Classic",
+    "Dramatic",
+    "Gamine"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Julia Child",
+   "stem": "Julia_Child",
+   "search_name": "Julia Child",
+   "gender": "female",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Julia Roberts",
+   "stem": "Julia_Roberts",
+   "search_name": "Julia Roberts",
+   "gender": "female",
+   "label_text": "Romantic with Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.4,
+    "Classic": 0.0,
+    "Romantic": 0.6,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Natural"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Kathy Bates",
+   "stem": "Kathy_Bates",
+   "search_name": "Kathy Bates",
+   "gender": "female",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Lesley Manville",
+   "stem": "Lesley_Manville",
+   "search_name": "Lesley Manville",
+   "gender": "female",
+   "label_text": "Ingenue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 1.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Leonard Nimoy",
+   "stem": "Leonard_Nimoy",
+   "search_name": "Leonard Nimoy",
+   "gender": "male",
+   "label_text": "Dramatic, Natural, Angelic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.5,
+    "Natural": 0.3,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.2
+   },
+   "essences": [
+    "Dramatic",
+    "Natural",
+    "Ethereal"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Lily Collins",
+   "stem": "Lily_Collins",
+   "search_name": "Lily Collins",
+   "gender": "female",
+   "label_text": "Gamine, Romantic, Classic with some ingenue and natural",
+   "label_text_2": "",
+   "percent_text": "35% High Spirited, 25% Romantic, 20% Classic, 10% Youthful, 10% Natural",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.1,
+    "Classic": 0.2,
+    "Romantic": 0.25,
+    "Gamine": 0.35,
+    "Ingenue": 0.1,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine",
+    "Romantic",
+    "Classic",
+    "Ingenue",
+    "Natural"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Liv Taylor",
+   "stem": "Liv_Tyler",
+   "search_name": "Liv Tyler",
+   "gender": "female",
+   "label_text": "Youthful, Romantic, with Classic, Angelic, Gamine",
+   "label_text_2": "",
+   "percent_text": "40% Youthful, 30% Romantic, 10% Classic, 10% Angelic, 10% High Spirited",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.1,
+    "Romantic": 0.3,
+    "Gamine": 0.1,
+    "Ingenue": 0.4,
+    "Ethereal": 0.1
+   },
+   "essences": [
+    "Ingenue",
+    "Romantic",
+    "Classic",
+    "Ethereal",
+    "Gamine"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Liza Minnelli",
+   "stem": "Liza_Minnelli",
+   "search_name": "Liza Minnelli",
+   "gender": "female",
+   "label_text": "Gamine",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Lucy Liu",
+   "stem": "Lucy_Liu",
+   "search_name": "Lucy Liu",
+   "gender": "female",
+   "label_text": "Dramatic, High-Spirited, Romantic, Classic",
+   "label_text_2": "",
+   "percent_text": "35% Dramatic; 25% High-Spirited; 25% Romantic; 15% Classic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.35,
+    "Natural": 0.0,
+    "Classic": 0.15,
+    "Romantic": 0.25,
+    "Gamine": 0.25,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic",
+    "Gamine",
+    "Romantic",
+    "Classic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Macaulay Culkin",
+   "stem": "Macaulay_Culkin",
+   "search_name": "Macaulay Culkin",
+   "gender": "male",
+   "label_text": "Ethereal",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 1.0
+   },
+   "essences": [
+    "Ethereal"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Maggie Smith",
+   "stem": "Maggie_Smith",
+   "search_name": "Maggie Smith",
+   "gender": "female",
+   "label_text": "Natural, Classic, Romantic, High Spirited, with some  Youthful, Angelic",
+   "label_text_2": "",
+   "percent_text": "25% Natural, 20% Classic, 20% Romantic, 20% High Spirited, 10% Youthful, 5% Angelic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.25,
+    "Classic": 0.2,
+    "Romantic": 0.2,
+    "Gamine": 0.2,
+    "Ingenue": 0.1,
+    "Ethereal": 0.05
+   },
+   "essences": [
+    "Natural",
+    "Classic",
+    "Romantic",
+    "Gamine",
+    "Ingenue",
+    "Ethereal"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Maggie Gyllenhaal",
+   "stem": "Maggie_Gyllenhaal",
+   "search_name": "Maggie Gyllenhaal",
+   "gender": "female",
+   "label_text": "Romantic, High Spirited, with Youthful,  Classic, Natural",
+   "label_text_2": "",
+   "percent_text": "Maggie Gyllenhaal- 35% Romantic, 35% High Spirited, 10% Youthful, 10% Classic, 10% Natural",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.1,
+    "Classic": 0.1,
+    "Romantic": 0.35,
+    "Gamine": 0.35,
+    "Ingenue": 0.1,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Gamine",
+    "Ingenue",
+    "Classic",
+    "Natural"
+   ],
+   "dominant": [
+    "Romantic",
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Marilyn Monroe",
+   "stem": "Marilyn_Monroe",
+   "search_name": "Marilyn Monroe",
+   "gender": "female",
+   "label_text": "Ingenue, Romantic with some Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.2,
+    "Classic": 0.0,
+    "Romantic": 0.3,
+    "Gamine": 0.0,
+    "Ingenue": 0.5,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue",
+    "Romantic",
+    "Natural"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Martin Landau",
+   "stem": "Martin_Landau",
+   "search_name": "Martin Landau",
+   "gender": "male",
+   "label_text": "Ethereal",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 1.0
+   },
+   "essences": [
+    "Ethereal"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Meg Ryan",
+   "stem": "Meg_Ryan",
+   "search_name": "Meg Ryan",
+   "gender": "female",
+   "label_text": "Ingenue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 1.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Meryl Streep",
+   "stem": "Meryl_Streep",
+   "search_name": "Meryl Streep",
+   "gender": "female",
+   "label_text": "Classic",
+   "label_text_2": "",
+   "percent_text": "Pure Classic",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 1.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": "Source: 'Pure Classic'"
+  },
+  {
+   "person": "Michael J.Fox",
+   "stem": "Michael_J_Fox",
+   "search_name": "Michael J. Fox",
+   "gender": "male",
+   "label_text": "Inegnue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 1.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Michelle Williams",
+   "stem": "Michelle_Williams",
+   "search_name": "Michelle Williams",
+   "gender": "female",
+   "label_text": "Ingenue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 1.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Michelle Yeoh",
+   "stem": "Michelle_Yeoh",
+   "search_name": "Michelle Yeoh",
+   "gender": "female",
+   "label_text": "Classic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 1.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Mitsuko Uchida",
+   "stem": "Mitsuko_Uchida",
+   "search_name": "Mitsuko Uchida",
+   "gender": "female",
+   "label_text": "Angelic, Classic, with Natural, Romantic,  Youthful",
+   "label_text_2": "",
+   "percent_text": "Mitsuko Uchida- 45% Angelic, 30% Classic, 10% Natural, 10% Romantic, 5% Youthful",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.1,
+    "Classic": 0.3,
+    "Romantic": 0.1,
+    "Gamine": 0.0,
+    "Ingenue": 0.05,
+    "Ethereal": 0.45
+   },
+   "essences": [
+    "Ethereal",
+    "Classic",
+    "Natural",
+    "Romantic",
+    "Ingenue"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Miranda Otto",
+   "stem": "Miranda_Otto",
+   "search_name": "Miranda Otto",
+   "gender": "female",
+   "label_text": "Youthful, Natural, Romantic, Classic",
+   "label_text_2": "",
+   "percent_text": "35% Youthful, 25% Natural, 20% Romantic, 20% Classic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.25,
+    "Classic": 0.2,
+    "Romantic": 0.2,
+    "Gamine": 0.0,
+    "Ingenue": 0.35,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue",
+    "Natural",
+    "Romantic",
+    "Classic"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Muhammed Ali",
+   "stem": "Muhammad_Ali",
+   "search_name": "Muhammad Ali",
+   "gender": "male",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Natalie Wood",
+   "stem": "Natalie_Wood",
+   "search_name": "Natalie Wood",
+   "gender": "female",
+   "label_text": "Romantic, high-spirited",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.6,
+    "Gamine": 0.4,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Gamine"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Nick Nolte",
+   "stem": "Nick_Nolte",
+   "search_name": "Nick Nolte",
+   "gender": "male",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Nicole Kidman",
+   "stem": "Nicole_Kidman",
+   "search_name": "Nicole Kidman",
+   "gender": "female",
+   "label_text": "Classic, Dramatic, Ingenue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.3,
+    "Natural": 0.0,
+    "Classic": 0.5,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.2,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic",
+    "Dramatic",
+    "Ingenue"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Operah Winfrey",
+   "stem": "Oprah_Winfrey",
+   "search_name": "Oprah Winfrey",
+   "gender": "female",
+   "label_text": "Romantic, Natural, with some Gamine and Classic",
+   "label_text_2": "",
+   "percent_text": "45% Romantic, 30% Natural, 15% High Spirited, 10% Classic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.3,
+    "Classic": 0.1,
+    "Romantic": 0.45,
+    "Gamine": 0.15,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Natural",
+    "Gamine",
+    "Classic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Paul McCartney",
+   "stem": "Paul_McCartney",
+   "search_name": "Paul McCartney",
+   "gender": "male",
+   "label_text": "Inegnue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 1.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Ingenue"
+   ],
+   "dominant": [
+    "Ingenue"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Paul Reubens",
+   "stem": "Paul_Reubens",
+   "search_name": "Paul Reubens",
+   "gender": "male",
+   "label_text": "Gamine (High- Spirited)",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Rachel Ray",
+   "stem": "Rachael_Ray",
+   "search_name": "Rachael Ray",
+   "gender": "female",
+   "label_text": "Gamine",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Renne Flamming",
+   "stem": "Renee_Fleming",
+   "search_name": "Renée Fleming",
+   "gender": "female",
+   "label_text": "Romantic with Youthful",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.6,
+    "Gamine": 0.0,
+    "Ingenue": 0.4,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Ingenue"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Rita Moreno",
+   "stem": "Rita_Moreno",
+   "search_name": "Rita Moreno",
+   "gender": "female",
+   "label_text": "High-Spirited",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Roberto Benigni",
+   "stem": "Roberto_Benigni",
+   "search_name": "Roberto Benigni",
+   "gender": "male",
+   "label_text": "Gamine (High- Spirited)",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Roseanne Barr",
+   "stem": "Roseanne_Barr",
+   "search_name": "Roseanne Barr",
+   "gender": "female",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Russell Brand",
+   "stem": "Russell_Brand",
+   "search_name": "Russell Brand",
+   "gender": "male",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Ryan Reynolds",
+   "stem": "Ryan_Reynolds",
+   "search_name": "Ryan Reynolds",
+   "gender": "male",
+   "label_text": "Classic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 1.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Ryan Gosling  (Verified post cheek implant surgery)",
+   "stem": "Ryan_Gosling",
+   "search_name": "Ryan Gosling",
+   "gender": "male",
+   "label_text": "Natural, Classic, Angelic with some Romantic and Gamine",
+   "label_text_2": "",
+   "percent_text": "30% Natural, 25% Classic, 25% Angelic, 10% Romantic, 10% High-Spirited.",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.3,
+    "Classic": 0.25,
+    "Romantic": 0.1,
+    "Gamine": 0.1,
+    "Ingenue": 0.0,
+    "Ethereal": 0.25
+   },
+   "essences": [
+    "Natural",
+    "Classic",
+    "Ethereal",
+    "Romantic",
+    "Gamine"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": "Label verified on post-surgery photos"
+  },
+  {
+   "person": "Saina Nehwal",
+   "stem": "Saina_Nehwal",
+   "search_name": "Saina Nehwal",
+   "gender": "female",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Scarlett Johansson",
+   "stem": "Scarlett_Johansson",
+   "search_name": "Scarlett Johansson",
+   "gender": "female",
+   "label_text": "Romantic, Ingenue",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.6,
+    "Gamine": 0.0,
+    "Ingenue": 0.4,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Ingenue"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Selena Gomez",
+   "stem": "Selena_Gomez",
+   "search_name": "Selena Gomez",
+   "gender": "female",
+   "label_text": "Romantic, Ingenue, with equal parts Classic, Gamine, Natural",
+   "label_text_2": "",
+   "percent_text": "40% Romantic, 20% Youthful, 10% Dramatic, 10% High-Spirited, 10% Classic, and 10% Natural",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.1,
+    "Natural": 0.1,
+    "Classic": 0.1,
+    "Romantic": 0.4,
+    "Gamine": 0.1,
+    "Ingenue": 0.2,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Ingenue",
+    "Dramatic",
+    "Gamine",
+    "Classic",
+    "Natural"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Serena Williams",
+   "stem": "Serena_Williams",
+   "search_name": "Serena Williams",
+   "gender": "female",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Sheamus Farelly",
+   "stem": "Sheamus_wrestler",
+   "search_name": "Sheamus wrestler",
+   "gender": "male",
+   "label_text": "Dramatic, Natural, with some Classic, Romantic, Angelic",
+   "label_text_2": "",
+   "percent_text": "40% Dramatic, 30% Natural, 10% Classic, 10% Romantic, 10% Angelic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.4,
+    "Natural": 0.3,
+    "Classic": 0.1,
+    "Romantic": 0.1,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.1
+   },
+   "essences": [
+    "Dramatic",
+    "Natural",
+    "Classic",
+    "Romantic",
+    "Ethereal"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Simone Biles",
+   "stem": "Simone_Biles",
+   "search_name": "Simone Biles",
+   "gender": "female",
+   "label_text": "High-Spirited",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Simon Rattle",
+   "stem": "Simon_Rattle",
+   "search_name": "Simon Rattle",
+   "gender": "male",
+   "label_text": "Ethereal",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 1.0
+   },
+   "essences": [
+    "Ethereal"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Sigourney Weaver",
+   "stem": "Sigourney_Weaver",
+   "search_name": "Sigourney Weaver",
+   "gender": "female",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Shirley Maclaine",
+   "stem": "Shirley_MacLaine",
+   "search_name": "Shirley MacLaine",
+   "gender": "female",
+   "label_text": "Gamine",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Shirley Verrett",
+   "stem": "Shirley_Verrett",
+   "search_name": "Shirley Verrett",
+   "gender": "female",
+   "label_text": "Classic with Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.4,
+    "Natural": 0.0,
+    "Classic": 0.6,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Classic",
+    "Dramatic"
+   ],
+   "dominant": [
+    "Classic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Sofia Carson",
+   "stem": "Sofia_Carson",
+   "search_name": "Sofia Carson",
+   "gender": "female",
+   "label_text": "High-Spirited, Romantic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.4,
+    "Gamine": 0.6,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine",
+    "Romantic"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Sofia Loren",
+   "stem": "Sophia_Loren",
+   "search_name": "Sophia Loren",
+   "gender": "female",
+   "label_text": "Highly Romantic",
+   "label_text_2": "",
+   "percent_text": "Highly Romantic (at least 70%)",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 1.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": "Source: 'Highly Romantic (at least 70%)'"
+  },
+  {
+   "person": "Tilda Swinton",
+   "stem": "Tilda_Swinton",
+   "search_name": "Tilda Swinton",
+   "gender": "female",
+   "label_text": "Ethereal, Natural, Classic, Dramatic with some Romantic",
+   "label_text_2": "",
+   "percent_text": "35% Angelic, 25% Natural, 20% Classic, 15% Dramatic, 5% Romantic",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.15,
+    "Natural": 0.25,
+    "Classic": 0.2,
+    "Romantic": 0.05,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.35
+   },
+   "essences": [
+    "Ethereal",
+    "Natural",
+    "Classic",
+    "Dramatic",
+    "Romantic"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Tina Turner",
+   "stem": "Tina_Turner",
+   "search_name": "Tina Turner",
+   "gender": "female",
+   "label_text": "Dramatic, Natural, Romantic with some Classic and High-spirirted",
+   "label_text_2": "",
+   "percent_text": "30% Dramatic, 30% Natural, 25% Romantic, 10% Classic, 5% High Spirited",
+   "weight_source": "given percentages",
+   "blend": {
+    "Dramatic": 0.3,
+    "Natural": 0.3,
+    "Classic": 0.1,
+    "Romantic": 0.25,
+    "Gamine": 0.05,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic",
+    "Natural",
+    "Romantic",
+    "Classic",
+    "Gamine"
+   ],
+   "dominant": [
+    "Dramatic",
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Tracee Ellis Ross",
+   "stem": "Tracee_Ellis_Ross",
+   "search_name": "Tracee Ellis Ross",
+   "gender": "female",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Vanessa Redgrave",
+   "stem": "Vanessa_Redgrave",
+   "search_name": "Vanessa Redgrave",
+   "gender": "female",
+   "label_text": "Ethereal",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 1.0
+   },
+   "essences": [
+    "Ethereal"
+   ],
+   "dominant": [
+    "Ethereal"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Vivien Leigh",
+   "stem": "Vivien_Leigh",
+   "search_name": "Vivien Leigh",
+   "gender": "female",
+   "label_text": "Romantic, Classic, Dramatic, High-spirited",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.2,
+    "Natural": 0.0,
+    "Classic": 0.3,
+    "Romantic": 0.4,
+    "Gamine": 0.1,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Romantic",
+    "Classic",
+    "Dramatic",
+    "Gamine"
+   ],
+   "dominant": [
+    "Romantic"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Whoopi Goldberg",
+   "stem": "Whoopi_Goldberg",
+   "search_name": "Whoopi Goldberg",
+   "gender": "female",
+   "label_text": "High-Spirited",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 1.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Gamine"
+   ],
+   "dominant": [
+    "Gamine"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Zach Galifianakis",
+   "stem": "Zach_Galifianakis",
+   "search_name": "Zach Galifianakis",
+   "gender": "male",
+   "label_text": "Natural",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 0.0,
+    "Natural": 1.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Natural"
+   ],
+   "dominant": [
+    "Natural"
+   ],
+   "note": ""
+  },
+  {
+   "person": "Zachary Quinto",
+   "stem": "Zachary_Quinto",
+   "search_name": "Zachary Quinto",
+   "gender": "male",
+   "label_text": "Dramatic",
+   "label_text_2": "",
+   "percent_text": "",
+   "weight_source": "rank order (dominant first)",
+   "blend": {
+    "Dramatic": 1.0,
+    "Natural": 0.0,
+    "Classic": 0.0,
+    "Romantic": 0.0,
+    "Gamine": 0.0,
+    "Ingenue": 0.0,
+    "Ethereal": 0.0
+   },
+   "essences": [
+    "Dramatic"
+   ],
+   "dominant": [
+    "Dramatic"
+   ],
+   "note": ""
+  }
+ ]
+}

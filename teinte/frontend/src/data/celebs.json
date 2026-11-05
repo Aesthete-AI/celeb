@@ -1,0 +1,1416 @@
+{
+"Light Spring": [
+{
+"n": "Aaron Tveit",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Abbie Cornish",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "AnnaSophia Robb",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Bridgit Mendler",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Cameron Diaz",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Diana Krall",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Eden Sher",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Gigi Hadid",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Gracie Abrams",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Gwyneth Paltrow",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Juno Temple",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Kate Hudson",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Kirsten Dunst",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Lili Reinhart",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Lily James",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Lily-Rose Depp",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Margot Robbie",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Matthew McConaughey",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Naomi Watts",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Owen Wilson",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Paris Hilton",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Peyton List",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Poppy Delevingne",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Reese Witherspoon",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Suki Waterhouse",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Taylor Swift",
+"g": "f",
+"u": "Warm"
+}
+],
+"Warm Spring": [
+{
+"n": "Adam Levine",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Amy Adams",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Channing Tatum",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Chris Pratt",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Eddie Murphy",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Emma Stone",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Gisele Bundchen",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Heidi Klum",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Hilary Duff",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Isla Fisher",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jennifer Aniston",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jennifer Garner",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jessica Biel",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jessica Chastain",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Kaley Cuoco",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Lindsey Stirling",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Nick Lachey",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Prince Harry",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Robbie Amell",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Shakira",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Sienna Miller",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Sofia Richie",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Sophia Bush",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Zac Efron",
+"g": "m",
+"u": "Warm"
+}
+],
+"Cool Winter": [
+{
+"n": "Adele",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Andrew Lincoln",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Anne Hathaway",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Billie Eilish",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Cate Blanchett",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Cillian Murphy",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Emilia Clarke",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Eva Longoria",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Henry Cavill",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Jenna Ortega",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Jennifer Connelly",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Keira Knightley",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Lana Del Rey",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Lily Collins",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Liv Tyler",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Nicole Kidman",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Rachel Weisz",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Rooney Mara",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Sandra Bullock",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Song Hye-kyo",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Viggo Mortensen",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Winona Ryder",
+"g": "f",
+"u": "Cool"
+}
+],
+"Cool Summer": [
+{
+"n": "Alexis Bledel",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Alicia Vikander",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Anna Friel",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Bella Hadid",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Ben Affleck",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Carey Mulligan",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Connie Britton",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "David Beckham",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Emily Blunt",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Gemma Chan",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Ian Somerhalder",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Issa Rae",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Jessica Pare",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Julianna Margulies",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Kate Middleton",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Leighton Meester",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Maggie Gyllenhaal",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Michelle Dockery",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Michelle Pfeiffer",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Mila Kunis",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Olivia Colman",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Rachel McAdams",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Robert Pattinson",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Sarah Paulson",
+"g": "f",
+"u": "Cool"
+}
+],
+"Deep Winter": [
+{
+"n": "Amal Clooney",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Angelina Jolie",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Benedict Cumberbatch",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Chadwick Boseman",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Dev Patel",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Diana Ross",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Dua Lipa",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Kerry Washington",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Kim Kardashian",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Lupita Nyong'o",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Michelle Yeoh",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Morgan Freeman",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Naomi Campbell",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Pedro Pascal",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Rami Malek",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Sandra Oh",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Thandiwe Newton",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Timothée Chalamet",
+"g": "m",
+"u": "Cool"
+}
+],
+"Light Summer": [
+{
+"n": "Amanda Seyfried",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Calista Flockhart",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Chloe Grace Moretz",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Claire Danes",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Daisy Ridley",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Dakota Fanning",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Eddie Redmayne",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Elizabeth Debicki",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Elle Fanning",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Emma Thompson",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Felicity Jones",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Gillian Anderson",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Hannah Waddingham",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Helen Hunt",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "January Jones",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Jodie Comer",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Kate Bosworth",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Laura Linney",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Nicola Coughlan",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Rachel Bilson",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Rosamund Pike",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Saoirse Ronan",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Sydney Sweeney",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Taylor Schilling",
+"g": "f",
+"u": "Cool"
+}
+],
+"Soft Summer": [
+{
+"n": "Amber Heard",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Andrew Garfield",
+"g": "m",
+"u": "Neutral"
+},
+{
+"n": "Cara Delevingne",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Claire Foy",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Dakota Johnson",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Elizabeth Olsen",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Jake Gyllenhaal",
+"g": "m",
+"u": "Neutral"
+},
+{
+"n": "Jennifer Jason Leigh",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Jennifer Lopez",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jude Law",
+"g": "m",
+"u": "Neutral"
+},
+{
+"n": "Juliette Binoche",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Kate Winslet",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Kristen Stewart",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Kristin Scott Thomas",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Lorde",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Marion Cotillard",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Matt Damon",
+"g": "m",
+"u": "Neutral"
+},
+{
+"n": "Natalie Portman",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Olivia Wilde",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Paul Mescal",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Phoebe Dynevor",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Ruth Wilson",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Ryan Gosling",
+"g": "m",
+"u": "Neutral"
+},
+{
+"n": "Sarah Jessica Parker",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Sarah Silverman",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Tilda Swinton",
+"g": "f",
+"u": "Neutral"
+},
+{
+"n": "Tom Hiddleston",
+"g": "m",
+"u": "Cool"
+}
+],
+"Soft Autumn": [
+{
+"n": "Ana de Armas",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Brad Pitt",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Chris Hemsworth",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Drew Barrymore",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Emily Deschanel",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Florence Pugh",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Hailey Bieber",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Hilary Swank",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jacob Elordi",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Jake Johnson",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Jason Sudeikis",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Jenna Fischer",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jessica Alba",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jessica Lange",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "John Krasinski",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Kendall Jenner",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Lana Condor",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Mandy Moore",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Mark Ruffalo",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Natalia Vodianova",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Oscar De La Hoya",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Rachel Zegler",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Tracee Ellis Ross",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Troye Sivan",
+"g": "m",
+"u": "Warm"
+}
+],
+"Warm Autumn": [
+{
+"n": "Angie Harmon",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Beyoncé",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Bryce Dallas Howard",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Chris Pine",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Christina Hendricks",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Damian Lewis",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Debra Messing",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Ed Sheeran",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Emma Roberts",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Ewan McGregor",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Florence Welch",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Gerard Butler",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Idris Elba",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Josh Duhamel",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Josh Hartnett",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Julia Roberts",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Julianne Moore",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Karen Gillan",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Madelaine Petsch",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Marcia Cross",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Sadie Sink",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Seth Rogen",
+"g": "m",
+"u": "Warm"
+}
+],
+"Deep Autumn": [
+{
+"n": "Antonio Banderas",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Bad Bunny",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Benicio del Toro",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Daniel Craig",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Gina Torres",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Halle Berry",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jason Momoa",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Javier Bardem",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Keanu Reeves",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Kourtney Kardashian",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Mahershala Ali",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Michael B. Jordan",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Nia Long",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Oprah Winfrey",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Oscar Isaac",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Penélope Cruz",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Salma Hayek",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Sofia Vergara",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Taraji P. Henson",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Tenoch Huerta",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Zendaya",
+"g": "f",
+"u": "Warm"
+}
+],
+"Bright Winter": [
+{
+"n": "Anya Taylor-Joy",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Constance Wu",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Deepika Padukone",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Dove Cameron",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Eva Green",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Fan Bingbing",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Gal Gadot",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Janelle Monáe",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Jared Leto",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Katy Perry",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Li Bingbing",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Lucy Liu",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Megan Fox",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Mindy Kaling",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Naomie Harris",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Nicki Minaj",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Rihanna",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Selena Gomez",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Zayn Malik",
+"g": "m",
+"u": "Cool"
+},
+{
+"n": "Zhang Ziyi",
+"g": "f",
+"u": "Cool"
+},
+{
+"n": "Zoe Saldana",
+"g": "f",
+"u": "Cool"
+}
+],
+"Bright Spring": [
+{
+"n": "Ashley Tisdale",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Blake Lively",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Chris Evans",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Demi Lovato",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Dianna Agron",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Ellie Kemper",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Emma Watson",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Hailee Steinfeld",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Hayden Panettiere",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jennifer Lawrence",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Jessica Simpson",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Julianne Hough",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Keke Palmer",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Lea Michele",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Lucy Hale",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Millie Bobby Brown",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Naya Rivera",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Nicole Scherzinger",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Robert Downey Jr.",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Ryan Reynolds",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Sabrina Carpenter",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Scarlett Johansson",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Thomas Middleditch",
+"g": "m",
+"u": "Warm"
+},
+{
+"n": "Vanessa Hudgens",
+"g": "f",
+"u": "Warm"
+},
+{
+"n": "Yara Shahidi",
+"g": "f",
+"u": "Warm"
+}
+]
+}
