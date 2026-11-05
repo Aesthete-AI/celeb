@@ -31,7 +31,5 @@ essence/restore_round2_accident.py
 teinte/frontend/public/media/
 
 # added in later commits (each push stays under GitHub's 2 GB limit)
-essence/crops/
-essence/crops_masked_*/
 teinte/backend/catalog/thumbs/
 teinte/backend/catalog/cache/
